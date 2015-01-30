@@ -15,7 +15,7 @@ Requires a minimum PHP version of 5.4.
 Execute this command in your terminal:
 
 ```
-composer require edwinhoksberg/trustpilot-api
+composer require edwinhoksberg/trustpilot-api:dev-master
 ```
 
 Or add this line to your composer.json:

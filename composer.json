@@ -1,0 +1,19 @@
+{
+    "name": "EdwinHoksberg/TrustPilot-API",
+    "description": "An simple library for parsing and displaying Trustpilot reviews.",
+    "keywords": [ "trustpilot", "trustpilot api" ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+          "name": "Edwin Hoksberg",
+          "email": "info@edwinhoksberg.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "classmap": [ "src/TrustPilot.php" ]
+    }
+}

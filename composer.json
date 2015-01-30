@@ -1,5 +1,5 @@
 {
-    "name": "EdwinHoksberg/TrustPilot-API",
+    "name": "edwinhoksberg/trustpilot-api",
     "description": "An simple library for parsing and displaying Trustpilot reviews.",
     "keywords": [ "trustpilot", "trustpilot api" ],
     "type": "library",

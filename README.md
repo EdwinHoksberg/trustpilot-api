@@ -45,7 +45,7 @@ require 'src/TrustPilot.php';
 
 ```php
 // Initialize the API
-$trustpilot = new \TrustPilot\Api('7794712');
+$trustpilot = new \TrustPilot\Api('1234567');
 ```
 
 ```php
